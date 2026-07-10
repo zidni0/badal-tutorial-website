@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://badaltutorialservices.com
+Sitemap: https://badaltutorialservices.com/sitemap.xml
