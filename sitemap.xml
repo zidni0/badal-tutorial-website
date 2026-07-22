@@ -57,6 +57,14 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://badaltutorialservices.com/en/careers/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://badaltutorialservices.com/en/careers/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://badaltutorialservices.com/bn/careers/" />
+<lastmod>2026-07-09</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://badaltutorialservices.com/en/privacy/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://badaltutorialservices.com/en/privacy/" />
 <xhtml:link rel="alternate" hreflang="bn" href="https://badaltutorialservices.com/bn/privacy/" />
@@ -124,6 +132,14 @@
 <loc>https://badaltutorialservices.com/bn/summer/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://badaltutorialservices.com/en/summer/" />
 <xhtml:link rel="alternate" hreflang="bn" href="https://badaltutorialservices.com/bn/summer/" />
+<lastmod>2026-07-09</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://badaltutorialservices.com/bn/careers/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://badaltutorialservices.com/en/careers/" />
+<xhtml:link rel="alternate" hreflang="bn" href="https://badaltutorialservices.com/bn/careers/" />
 <lastmod>2026-07-09</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
