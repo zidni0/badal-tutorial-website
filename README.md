@@ -72,4 +72,4 @@ the developer. This repo is purely the deployable build artifact.
 
 ---
 
-Built and maintained by **ihthos**.
+Built and maintained by Kazi
