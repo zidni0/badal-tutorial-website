@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://badaltutorial.academy
-Sitemap: https://badaltutorial.academy/sitemap.xml
+Host: https://www.badaltutorial.academy
+Sitemap: https://www.badaltutorial.academy/sitemap.xml
