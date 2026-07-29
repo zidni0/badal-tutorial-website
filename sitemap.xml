@@ -49,14 +49,6 @@
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://www.badaltutorial.academy/en/summer/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://www.badaltutorial.academy/en/summer/" />
-<xhtml:link rel="alternate" hreflang="bn" href="https://www.badaltutorial.academy/bn/summer/" />
-<lastmod>2026-07-09</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
 <loc>https://www.badaltutorial.academy/en/careers/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://www.badaltutorial.academy/en/careers/" />
 <xhtml:link rel="alternate" hreflang="bn" href="https://www.badaltutorial.academy/bn/careers/" />
@@ -124,14 +116,6 @@
 <loc>https://www.badaltutorial.academy/bn/contact/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://www.badaltutorial.academy/en/contact/" />
 <xhtml:link rel="alternate" hreflang="bn" href="https://www.badaltutorial.academy/bn/contact/" />
-<lastmod>2026-07-09</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
-</url>
-<url>
-<loc>https://www.badaltutorial.academy/bn/summer/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://www.badaltutorial.academy/en/summer/" />
-<xhtml:link rel="alternate" hreflang="bn" href="https://www.badaltutorial.academy/bn/summer/" />
 <lastmod>2026-07-09</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
