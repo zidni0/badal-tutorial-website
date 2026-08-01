@@ -1,0 +1,4 @@
+Contact: mailto:badaltutorial.edu@gmail.com
+Expires: 2027-07-31T00:00:00.000Z
+Preferred-Languages: en, bn
+Policy: https://badaltutorial.academy/en/privacy/
